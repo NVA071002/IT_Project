@@ -20,7 +20,7 @@ import java.util.Random;
  */
 public class SendEmail {
 
-    final String fromEmail = "";
+    final String fromEmail = ""; //Add your email address here
     final String password = "";
 
     public String getRandom() {
